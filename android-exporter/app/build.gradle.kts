@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.healthgarminexporter"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.healthgarminexporter"
         minSdk = 28
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "0.1.0"
     }
