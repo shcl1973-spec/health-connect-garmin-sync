@@ -1,0 +1,11 @@
+.gradle/
+build/
+*/build/
+*.apk
+*.aab
+*.iml
+local.properties
+__pycache__/
+*.pyc
+.venv/
+uploaded-records.json
